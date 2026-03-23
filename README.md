@@ -1,6 +1,6 @@
 # CGPA Calculator & Semester Performance Analyzer
 
-A C++ console application to calculate semester GPA and cumulative CGPA across an 8-semester degree — built to practice OOP, arrays, and function design.
+>A C++ console application to calculate semester GPA and cumulative CGPA across an 8-semester degree — built to practice OOP, arrays, and function design.
 
 ## Overview
 
